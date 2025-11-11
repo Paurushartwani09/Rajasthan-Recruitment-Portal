@@ -1,0 +1,21 @@
+:root {
+  /* 🌈 Brand / Custom Colors */
+  --Goldenrod-Gleam: #daa520;     /* classic goldenrod shade */
+  --orange-red: #F97549;          /* vivid orange-red color (updated) */
+
+  /* 🎨 Theme Colors */
+  --primary-color: #6339fb;       /* main purple brand color */
+  --secondary-color: #ff967c;     /* accent coral shade */
+  --primary-color-theme: #3F5BD9; /* deep blue primary theme color */
+
+  /* ⚙️ Utility / Common Colors */
+  --white-color: #fff;
+  --header--notice: #2C54CE;
+  --Dark-Gunmetal: #1e2327;       /* dark neutral tone */
+
+  /* 🌤️ Background / Text */
+  --background-color: #f5f5f5;
+  --text-color: #333333;
+  --Bright-Gray: #EDEDED;
+   --gray-color-section: #ECF0FF;
+}
